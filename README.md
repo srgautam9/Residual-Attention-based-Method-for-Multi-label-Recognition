@@ -23,3 +23,5 @@ Since all mAP results are close to each other, we can conclude that the CNN-back
 class specific attention matters much to the final performance in multi-label recognition.
 Future prospect of the work looks at its applicability to other computer vision tasks - object detection
 and more generalized image representations.
+
+![Screenshot](Report.jpg)
