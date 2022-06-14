@@ -23,3 +23,5 @@ Since all mAP results are close to each other, we can conclude that the CNN-back
 class specific attention matters much to the final performance in multi-label recognition.
 Future prospect of the work looks at its applicability to other computer vision tasks - object detection
 and more generalized image representations.
+
+[[https://github.com/Somrajgautam/Residual-Attention-based-Method-for-Multi-label-Recognition/blob/main/Report.jpg|alt=octocat]]
